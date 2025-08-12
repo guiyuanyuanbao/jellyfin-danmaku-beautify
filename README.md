@@ -10,6 +10,12 @@
 
 ![美化效果 2](https://github.com/guiyuanyuanbao/jellyfin-danmaku-beautify/raw/main/img/2.png)
 
+## 支持的客户端
+
+- Jellyfin Web
+- Jellyfin Android (播放器类型仅限网页播放器)
+- Jellyfin iOS
+
 ## 功能特点
 
 此脚本优化了 Jellyfin 弹幕设置界面，提供以下功能：
