@@ -2,6 +2,14 @@
 
 一个用于 [Jellyfin 弹幕扩展](https://github.com/Izumiko/jellyfin-danmaku/tree/jellyfin) 的界面美化脚本。
 
+## 美化效果
+
+以下是美化后的弹幕设置界面效果图：
+
+![美化效果 1](https://github.com/guiyuanyuanbao/jellyfin-danmaku-beautify/raw/main/img/1.png)
+
+![美化效果 2](https://github.com/guiyuanyuanbao/jellyfin-danmaku-beautify/raw/main/img/2.png)
+
 ## 功能特点
 
 此脚本优化了 Jellyfin 弹幕设置界面，提供以下功能：
@@ -30,6 +38,7 @@ sudo systemctl restart nginx
 ```
 
 4. 访问 Jellyfin 网页界面，脚本将自动加载并优化弹幕设置界面。
+
 
 ## 使用说明
 
