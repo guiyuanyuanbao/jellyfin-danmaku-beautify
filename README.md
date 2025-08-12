@@ -24,7 +24,7 @@
 ### 方法一：使用用户脚本管理器
 
 1. 安装用户脚本管理器，例如 [Tampermonkey](https://www.tampermonkey.net/) 或 [Violentmonkey](https://violentmonkey.github.io/)。 
-2. 点击 [此处](https://github.com/guiyuanyuanbao/jellyfin-danmaku-beautify/raw/main/danmu_setting_beautify.js) 将脚本添加到您的用户脚本管理器。
+2. 点击 [此处](https://greasyfork.org/zh-CN/scripts/545506-jellyfin-%E5%BC%B9%E5%B9%95%E8%AE%BE%E7%BD%AE%E7%95%8C%E9%9D%A2%E4%BC%98%E5%8C%96%E5%A2%9E%E5%BC%BA) 将脚本添加到您的用户脚本管理器。
 3. 确保脚本已启用并刷新 Jellyfin 网页界面。
 
 ### 方法二：通过 Nginx 部署
